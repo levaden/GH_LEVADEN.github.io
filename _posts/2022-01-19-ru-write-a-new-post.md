@@ -1,5 +1,5 @@
 ---
-title: `Как Писать Новый Пост`
+title: "Как Писать Новый Пост"
 author:
   name: Cotes Chung
   link: https://github.com/cotes2020
