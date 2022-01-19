@@ -1,5 +1,5 @@
 ---
-title: Как Написать Новый Пост
+title: Ru Write New post
 author: Денис
   name: Денис
   link: https://tarotmaster.ml/
