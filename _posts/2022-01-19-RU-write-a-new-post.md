@@ -1,9 +1,9 @@
 ---
-title: Ru Write New Post
-author: 
-  name: Denis
-  link: https://tarotmaster.ml
-date: 2022-01-18 11:00:00 +0300
+title: Writing a New Post Ru
+author:
+  name: Cotes Chung
+  link: https://github.com/cotes2020
+date: 2022-01-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
 render_with_liquid: false
