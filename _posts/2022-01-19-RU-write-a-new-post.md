@@ -1,8 +1,8 @@
 ---
-title: Ru Write New post
-author: Денис
-  name: Денис
-  link: https://tarotmaster.ml/
+title: Ru Write New Post
+author: 
+  name: Denis
+  link: https://tarotmaster.ml
 date: 2022-01-18 11:00:00 +0300
 categories: [Blogging, Tutorial]
 tags: [writing]
