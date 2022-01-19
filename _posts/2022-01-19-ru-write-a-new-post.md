@@ -1,5 +1,5 @@
 ---
-title: Как Писать Новый Пост
+title: `Как Писать Новый Пост`
 author:
   name: Cotes Chung
   link: https://github.com/cotes2020
@@ -24,7 +24,7 @@ render_with_liquid: false
 title: TITLE
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # 		ТЕГИ всегда должны быть в нижнем регистре
+tags: [TAG]     # ТЕГИ всегда должны быть в нижнем регистре
 ---
 ```
 
