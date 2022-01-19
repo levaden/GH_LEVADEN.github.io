@@ -1,5 +1,5 @@
 ---
-title: "Текст и типографика"
+title: "Текст и Типографика"
 author:
   name: Cotes Chung
   link: https://github.com/cotes2020
