@@ -302,7 +302,7 @@ echo 'No more line numbers!'
 {% endraw %}
 ````
 
-Или добавьте `render_with_liquid: false` (Требуется Jekyll 4.0 или выше) в YAML-блок поста.
+Или добавьте `render_with_liquid: false` (Требуется Jekyll 4.0 или выше) в YAML-блок поста...
 
 ## Подробнее
 
