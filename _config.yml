@@ -28,7 +28,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://denilev.github.io'
+url: ''
 
 github:
   username: github_username             # change to your github username
@@ -49,13 +49,13 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification:               # fill in to your verification string
 
 # ↑ --------------------------
 
 
 google_analytics:
-  id: ''              # fill in your Google Analytics ID
+  id:                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
