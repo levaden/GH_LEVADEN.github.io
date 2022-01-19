@@ -1,5 +1,5 @@
 ---
-title: Writing a New Post Ru
+title: ru write a new post
 author:
   name: Cotes Chung
   link: https://github.com/cotes2020
