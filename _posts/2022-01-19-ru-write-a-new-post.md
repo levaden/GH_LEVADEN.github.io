@@ -1,5 +1,5 @@
 ---
-title: ru write a new post
+title: Как Писать Новый Пост
 author:
   name: Cotes Chung
   link: https://github.com/cotes2020
