@@ -20,7 +20,7 @@ timezone: Europe/Moscow
 
 title: Денис                          # the main title
 
-tagline: место для записей  # it will display as the sub-title
+tagline: место для записей   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -88,14 +88,14 @@ avatar: '/cdncontent/avatar.png'
 toc: true
 
 comments:
-  active: utterances     # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: utterances       # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: denilev/comments  # <gh-username>/<repo>
-    issue_term: title # < url | pathname | title | ...>
+    repo: denilev/denilev/denilev.github.io     # <gh-username>/<repo>
+    issue_term:   # < url | pathname | title | ...>
 
 paginate: 10
 
