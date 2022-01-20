@@ -20,7 +20,7 @@ timezone: Europe/Moscow
 
 title: Денис                          # the main title
 
-tagline: место для записей   # it will display as the sub-title
+tagline: место для записей <br> <a href="https://tarotmaster.ml/">сайт таро</a>  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
