@@ -95,7 +95,7 @@ comments:
   # utterances settings › https://utteranc.es/
   utterances:
     repo: denilev/denilev/comments.git  # <gh-username>/<repo>
-    issue_term:  https://utteranc.es/client.js | denilev/comments.git | title | github-dark | anonymous | # < url | pathname | title | ...>
+    issue_term: < https://utteranc.es/client.js | denilev/comments.git | title | github-dark | anonymous > # < url | pathname | title | ...>
 
 paginate: 10
 
