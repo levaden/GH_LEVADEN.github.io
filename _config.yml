@@ -94,8 +94,8 @@ comments:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: <denilev>/<denilev/comments.git>  # <gh-username>/<repo>
-    issue_term: < https://utteranc.es/client.js | denilev/comments.git | title | github-dark | anonymous > # < url | pathname | title | ...>
+    repo: denilev/comments.git  # <gh-username>/<repo>
+    issue_term: title # < url | pathname | title | ...>
 
 paginate: 10
 
